@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/ball-mill-grinding-mechanism-explainer/
 
+Repository: https://github.com/mizcausevic-dev/ball-mill-grinding-mechanism-explainer
+
 ## What this is
 
 An interactive anatomy plate for Ball-Mill Grinding Mechanism. Play, scrub, or jump the five stages. The same frame always draws the same picture.
